@@ -1,9 +1,9 @@
 # Introduction to Artificial Intelligence
-Taken on: **Washington University in Saint Louis**, Fall 2016
+**Taken on: Washington University in Saint Louis, Fall 2016**
 
-Instructor: **Roman Garnett**
+**Instructor: Roman Garnett**
 
-[Webpage](http://www.cse.wustl.edu/~garnett/cse511a/)
+**[Webpage](http://www.cse.wustl.edu/~garnett/cse511a/)**
 
 
 The code is in general clean but it lacks comments that explain what is going on. I will add them shortly.
